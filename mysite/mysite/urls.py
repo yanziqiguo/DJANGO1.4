@@ -6,6 +6,7 @@ admin.autodiscover()
 
 urlpatterns = patterns('',
     # url(r'^news/', include('apps.news.urls')),
+    url(r'^polls/', include('apps.polls.urls',namespace="polls")),
 
 
     # url(r'^$', 'mysite.views.home', name='home'),
