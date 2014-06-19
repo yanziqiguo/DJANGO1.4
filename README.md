@@ -1,4 +1,4 @@
 DJANGO1.4
 =========
 
-Django Software Foundation
+Django Software Foundation with Pycharm
